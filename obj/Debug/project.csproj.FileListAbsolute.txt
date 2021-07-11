@@ -1,0 +1,58 @@
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\bin\Debug\project.exe.config
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\bin\Debug\project.exe
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\bin\Debug\project.pdb
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.exe
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.pdb
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.AdminHome.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.EmployeeManagement.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.ViewEmployee.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.Addemployee.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.Analysis_Window.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.ViewDatabase.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.Login.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.SignUp.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.CustomerHome.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.myProfile.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.ProductHome.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.CartWindow.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.EmployeeHome.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.AddProduct.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.ViewProduct.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.ViewPurchaseHistory.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.OrderToSales.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.Product_perf.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.AdminHistory.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.AdminProfile.resources
+C:\Users\misso\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.EmployeeProfile.resources
+X:\OOP2 Project\project\project\bin\Debug\project.exe.config
+X:\OOP2 Project\project\project\obj\Debug\project.exe
+X:\OOP2 Project\project\project\obj\Debug\project.pdb
+X:\OOP2 Project\project\project\bin\Debug\project.exe
+X:\OOP2 Project\project\project\bin\Debug\project.pdb
+X:\OOP2 Project\project\project\obj\Debug\project.Addemployee.resources
+X:\OOP2 Project\project\project\obj\Debug\project.AddProduct.resources
+X:\OOP2 Project\project\project\obj\Debug\project.AdminHistory.resources
+X:\OOP2 Project\project\project\obj\Debug\project.AdminProfile.resources
+X:\OOP2 Project\project\project\obj\Debug\project.Analysis_Window.resources
+X:\OOP2 Project\project\project\obj\Debug\project.CartWindow.resources
+X:\OOP2 Project\project\project\obj\Debug\project.CustomerHome.resources
+X:\OOP2 Project\project\project\obj\Debug\project.EmployeeHome.resources
+X:\OOP2 Project\project\project\obj\Debug\project.EmployeeManagement.resources
+X:\OOP2 Project\project\project\obj\Debug\project.EmployeeProfile.resources
+X:\OOP2 Project\project\project\obj\Debug\project.AdminHome.resources
+X:\OOP2 Project\project\project\obj\Debug\project.Login.resources
+X:\OOP2 Project\project\project\obj\Debug\project.myProfile.resources
+X:\OOP2 Project\project\project\obj\Debug\project.OrderToSales.resources
+X:\OOP2 Project\project\project\obj\Debug\project.ProductHome.resources
+X:\OOP2 Project\project\project\obj\Debug\project.Product_perf.resources
+X:\OOP2 Project\project\project\obj\Debug\project.Properties.Resources.resources
+X:\OOP2 Project\project\project\obj\Debug\project.SignUp.resources
+X:\OOP2 Project\project\project\obj\Debug\project.ViewDatabase.resources
+X:\OOP2 Project\project\project\obj\Debug\project.ViewEmployee.resources
+X:\OOP2 Project\project\project\obj\Debug\project.ViewProduct.resources
+X:\OOP2 Project\project\project\obj\Debug\project.ViewPurchaseHistory.resources
+X:\OOP2 Project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+X:\OOP2 Project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
